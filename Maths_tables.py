@@ -1,0 +1,12 @@
+while True:
+    i = input('type a number for your table ')
+    print(i, 'x 1 =', int(i) * 1)
+    print(i, 'x 2 =', int(i) * 2)
+    print(i, 'x 3 =', int(i) * 3)
+    print(i, 'x 4 =', int(i) * 4)
+    print(i, 'x 5 =', int(i) * 5)
+    print(i, 'x 6 =', int(i) * 6)
+    print(i, 'x 7 =', int(i) * 7)
+    print(i, 'x 8 =', int(i) * 8)
+    print(i, 'x 9 =', int(i) * 9)
+    print(i, 'x 10 =', int(i) * 10)
