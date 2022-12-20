@@ -14,11 +14,11 @@ etc
 this project can make it easier to write biger tables without calculations 
 
 Question: how to install it 
-step 1 (in git bash):   
+step 1 (cmd):   
 
     git clone https://github.com/GamerTwarit/Maths_Tables
     
-Step 2 (in cmd):
+Step 2 (cmd):
 
     cd Maths_tables
     
